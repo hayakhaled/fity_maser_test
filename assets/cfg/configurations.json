@@ -1,0 +1,7 @@
+{
+  "base_url": "https://fity.at/public/",
+  "api_base_url": "https://fity.at/public/api/",
+
+  "base_url2": "https://markets.smartersvision.com/",
+  "api_base_url2": "https://markets.smartersvision.com/api/"
+}

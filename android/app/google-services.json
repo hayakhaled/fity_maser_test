@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "561977637086",
+    "firebase_url": "https://markets-284810.firebaseio.com",
+    "project_id": "markets-284810",
+    "storage_bucket": "markets-284810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561977637086:android:d93c306d43766936682a4f",
+        "android_client_info": {
+          "package_name": "com.smartersvision.markets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561977637086-66ilfcj445nbqfljn64eedch0udatmt7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartersvision.markets",
+            "certificate_hash": "35a273b3ce2b63b8792bd364b9a8f69f4c2800b1"
+          }
+        },
+        {
+          "client_id": "561977637086-77d74vs52hihvb2cgk54komjcbjhoeg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQBIYBSzMAJtDxzYiP7r6Skvyaupt3uFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561977637086-77d74vs52hihvb2cgk54komjcbjhoeg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
